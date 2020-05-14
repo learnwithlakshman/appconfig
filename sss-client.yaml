@@ -2,5 +2,6 @@
 search: binear
 sort: merge
 author:
- name: Rajesh
- email: rajesh.t@google.com
+  profile:
+    name: Rajesh
+    email: rajesh.t@google.com
