@@ -1,4 +1,4 @@
 --- 
-search: binary
-sort: bubble
+search: linear
+sort: merge
 
